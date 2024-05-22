@@ -1,7 +1,7 @@
 FROM node:slim
 
 ENV NODE_ENV=production
-ENV PORT=4100
+ENV PORT=443
 
 WORKDIR /app
 
