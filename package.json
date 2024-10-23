@@ -21,7 +21,7 @@
   "dependencies": {
     "@headlessui/react": "^1.7.12",
     "@heroicons/react": "^2.0.16",
-    "core-js": "^3.28.0",
+    "core-js": "^3.37.1",
     "lodash": "^4.17.21",
     "pretty-cache-header": "^1.0.0",
     "qrcode": "^1.5.1",
