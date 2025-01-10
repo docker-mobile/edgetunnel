@@ -20,7 +20,7 @@
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.12",
-    "@heroicons/react": "^2.0.16",
+    "@heroicons/react": "^2.1.3",
     "core-js": "^3.28.0",
     "lodash": "^4.17.21",
     "pretty-cache-header": "^1.0.0",
